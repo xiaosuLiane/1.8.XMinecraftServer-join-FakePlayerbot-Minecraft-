@@ -1,0 +1,3 @@
+# MinecraftServer_join_FakePlayerbot
+通过WireShark抓包
+通过TCP三次握手发送数据在一个服务器简单的加入玩家，也许这不是一个完整流程
