@@ -1,4 +1,4 @@
-# MinecraftServer_join_FakePlayerbot
+# [1.8.X]MinecraftServer_join_FakePlayerbot
 通过WireShark抓包  
 至于ip可以通过系统自带的ping来ping域名或者DNS解析来获得  
 通过TCP三次握手发送数据在一个服务器简单的加入玩家，
